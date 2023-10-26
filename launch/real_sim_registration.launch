@@ -1,0 +1,18 @@
+<launch>
+
+  <node name="real_sim_registration" pkg="real_sim_registration" type="real_sim_registration" output="screen">
+    <param name="x_range" value=""/>
+    <param name="y_range" value=""/>
+    <param name="z_range" value=""/>
+    <param name="voxel_size" value="0.1"/>
+    <param name="map_voxel_size" value="0.5"/>
+    <param name="obj_file_path" value="$(find real_sim_registration)/meshes/ee6f/ee6f.obj" />
+    <remap from="pose" to="/husky/slam_gmapping/pose"/>
+  </node>
+  <node name="obj_to_pointcloud2" pkg="real_sim_registration" type="obj_to_pointcloud2" output="screen">
+    <param name="map_frame_id" value="map" />
+    <param name="obj_file_path" value="$(find real_sim_registration)/meshes/ee6f/ee6f.obj" />
+    <param name="leaf_size" value="0.1" />
+    <param name="publish_period" value="1.0" />
+  </node>
+</launch>

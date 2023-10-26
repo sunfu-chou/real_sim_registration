@@ -1,0 +1,2132 @@
+# Blender 3.4.0 MTL File: 'None'
+# www.blender.org
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_000.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_000.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_001.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_001.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_002.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_002.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_003.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_003.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_004.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_004.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_005.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_005.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_006.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_006.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_007.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_007.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_008.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_008.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_009.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_009.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_010.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_010.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_011.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_011.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_012.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_012.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_013.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_013.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_014.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_014.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_015.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_015.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_016.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_016.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_017.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_017.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_018.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_018.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_019.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_019.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_020.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_020.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_021.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_021.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_022.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_022.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_023.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_023.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_024.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_024.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_025.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_025.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_026.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_026.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_027.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_027.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_028.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_028.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_029.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_029.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_030.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_030.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_031.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_031.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_032.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_032.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_033.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_033.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_034.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_034.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_035.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_035.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_036.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_036.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_037.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_037.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_038.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_038.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_039.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_039.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_040.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_040.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_041.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_041.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_042.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_042.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_043.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_043.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_044.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_044.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_045.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_045.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_046.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_046.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_047.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_047.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_048.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_048.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_049.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_049.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_050.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_050.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_051.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_051.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_052.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_052.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_053.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_053.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_054.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_054.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_055.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_055.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_056.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_056.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_057.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_057.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_058.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_058.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_059.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_059.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_060.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_060.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_061.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_061.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_062.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_062.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_063.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_063.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_064.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_064.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_065.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_065.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_066.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_066.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_067.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_067.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_068.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_068.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_069.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_069.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_070.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_070.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_071.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_071.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_072.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_072.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_073.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_073.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_074.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_074.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_075.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_075.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_076.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_076.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_077.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_077.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_078.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_078.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_079.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_079.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_080.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_080.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_081.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_081.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_082.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_082.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_083.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_083.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_084.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_084.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_085.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_085.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_086.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_086.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_087.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_087.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_088.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_088.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_089.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_089.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_090.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_090.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_091.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_091.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_092.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_092.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_093.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_093.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_094.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_094.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_095.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_095.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_096.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_096.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_097.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_097.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_098.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_098.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_099.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_099.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_100.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_100.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_101.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_101.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_102.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_102.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_103.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_103.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_104.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_104.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_105.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_105.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_106.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_106.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_107.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_107.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_108.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_108.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_109.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_109.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_110.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_110.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_111.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_111.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_112.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_112.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_113.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_113.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_114.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_114.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_115.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_115.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_116.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_116.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_117.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_117.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_118.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_118.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_119.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_119.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_120.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_120.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_121.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_121.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_122.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_122.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_123.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_123.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_124.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_124.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_125.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_125.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_126.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_126.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_127.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_127.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_128.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_128.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_129.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_129.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_130.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_130.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_131.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_131.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_132.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_132.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_133.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_133.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_134.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_134.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_135.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_135.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_136.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_136.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_137.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_137.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_138.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_138.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_139.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_139.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_140.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_140.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_141.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_141.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_142.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_142.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_143.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_143.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_144.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_144.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_145.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_145.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_146.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_146.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_147.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_147.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_148.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_148.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_149.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_149.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_150.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_150.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_151.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_151.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_152.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_152.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_153.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_153.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_154.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_154.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_155.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_155.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_156.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_156.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_157.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_157.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_158.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_158.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_159.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_159.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_160.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_160.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_161.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_161.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_162.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_162.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_163.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_163.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_164.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_164.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_165.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_165.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_166.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_166.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_167.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_167.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_168.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_168.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_169.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_169.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_170.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_170.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_171.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_171.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_172.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_172.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_173.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_173.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_174.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_174.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_175.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_175.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_176.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_176.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_177.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_177.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_178.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_178.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_179.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_179.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_180.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_180.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_181.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_181.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_182.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_182.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_183.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_183.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_184.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_184.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_185.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_185.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_186.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_186.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_187.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_187.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_188.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_188.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_189.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_189.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_190.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_190.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_191.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_191.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_192.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_192.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_193.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_193.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_194.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_194.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_195.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_195.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_196.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_196.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_197.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_197.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_198.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_198.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_199.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_199.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_200.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_200.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_201.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_201.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_202.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_202.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_203.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_203.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_204.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_204.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_205.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_205.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_206.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_206.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_207.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_207.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_208.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_208.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_209.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_209.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_210.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_210.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_211.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_211.jpg
+
+newmtl 7ba6cd30263d454c9e3c09bb6590d8c5_212.jpg
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /home/sunfu/GMU_NCTU_Sound_Navigation/multi-husky-goal-navi/catkin_ws/src/real_to_sim_env/mesh/EE6F/meshes/7ba6cd30263d454c9e3c09bb6590d8c5_212.jpg
